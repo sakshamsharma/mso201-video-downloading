@@ -9,3 +9,9 @@ The YouTube link still exists in the webpage source code, which is generated via
 Updation of the urls file is welcome, as and when new lectures are released, or for the older lectures before the Mid semester exam.
 
 *This is intended only for the convenience of students of the course.*
+
+**Usage Instructions**
+For Linux users only. Should work with Mac too though.
+```
+curl https://raw.githubusercontent.com/sakshamsharma/mso201-video-downloading/master/download.sh | sh
+```
